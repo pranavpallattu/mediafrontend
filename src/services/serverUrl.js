@@ -1,0 +1,1 @@
+export const serverUrl='https://media-5jqi.onrender.com'
